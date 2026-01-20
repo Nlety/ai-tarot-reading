@@ -1,0 +1,7 @@
+{
+    "name": "ai-tarot-reading",
+    "entry": "./edge-functions/tarot-storage.js",
+    "assets": {
+        "directory": "./"
+    }
+}
